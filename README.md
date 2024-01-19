@@ -1,1 +1,2 @@
-# CS210-TweetArt-Project
+# CS210-Course-Project
+#Tweet-Art
